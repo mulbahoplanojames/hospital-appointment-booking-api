@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node --watch server.mjs"
+    "start": "node api.js && node --watch server.mjs"
   },
   "keywords": [],
   "author": "",
